@@ -1,5 +1,5 @@
 import React from 'react';
-import GlobalStyles from '../src/styles/global'
+import GlobalStyles from 'styles/global'
 
 export const decorators = [
   (Story) => (

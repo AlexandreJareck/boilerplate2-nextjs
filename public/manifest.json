@@ -1,14 +1,14 @@
 {
-  "name": "React Avançado - Boilerplate",
+  "name": "Boilerplate",
   "short_name": "React Avançado",
   "icons": [
     {
-      "src": "/img/icon-192.png",
+      "src": "favicon.ico",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/img/icon-512.png",
+      "src": "favicon.ico",
       "type": "image/png",
       "sizes": "512x512"
     }
